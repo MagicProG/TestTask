@@ -1,0 +1,17 @@
+{
+    "name": "Calculator",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9fe42818686f60f4d9fa566ca0d27e4b",
+        "GUID:25d7c90a55545a545b37bab9365d4916"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
