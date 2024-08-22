@@ -48,7 +48,6 @@ namespace Calculator.Model
             }
             catch (Exception ex)
             {
-                result += ErrorText;
                 _presenter.ResultResponse(false, result + ErrorText);
             }
             finally
